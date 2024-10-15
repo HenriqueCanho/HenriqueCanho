@@ -29,7 +29,7 @@
 
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueCanho&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanho&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCanho&layout=compact&theme=dark)
 
 ** **
 
